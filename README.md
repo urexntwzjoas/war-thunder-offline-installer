@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+War Thunder is the most comprehensive free-to-play, cross-platform, MMO military game dedicated to aviation, armoured vehicles, and naval craft, from the early 20th century to the most advanced modern combat units. Join now and take part in major battles on land, in the air, and at sea.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: Windows 10 (64bit) / Rec: Windows 10/11 (64bit) | Catalina 10.15 |
+| **Processor** | Min: Dual-Core 2.2 GHz / Rec: Intel Core i5 or Ryzen 5 3600 or better | Core i5, minimum 2.2GHz (Intel Xeon is not supported) |
+| **Memory** | Min: 4 GB RAM / Rec: 16 GB RAM | 6 GB RAM |
+| **Graphics** | Min: DirectX 11 level video card: AMD Radeon 77XX / NVIDIA G… / Rec: DirectX 11 level video card or higher and drivers: Nvid… | Intel Iris Pro 5200 (Mac), or analog from AMD/Nvidia fo… |
+| **DirectX** | Min: Version 11 / Rec: Version 12 | Version 11 |
+| **Storage** | Min: 70 GB available space / Rec: 95 GB available space | 70 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **VR Support** | SteamVR. Keyboard or gamepad required | SteamVR. Keyboard or gamepad required |
 
 ---
 
